@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/23tdh1d4a4bn8yl1?svg=true)](https://ci.appveyor.com/project/Stasanela/api-ci-hw)
